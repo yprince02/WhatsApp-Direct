@@ -1,4 +1,4 @@
-package com.whatsappdirect;
+package com.whatsappdirectpro;
 
 import com.facebook.react.ReactActivity;
 
