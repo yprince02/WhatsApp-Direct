@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface flashBoomTests : XCTestCase
+@interface whatsappdirectproTests : XCTestCase
 
 @end
 
-@implementation flashBoomTests
+@implementation whatsappdirectproTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL(^)(UIView *view))test
 {
